@@ -1,0 +1,11 @@
+/home/priks/rust-projects/near-projects/near-registery/contract/target/debug/deps/ed25519_dalek-add9c9fe6ba168a6.rmeta: /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/lib.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/constants.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/keypair.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/errors.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/public.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/secret.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/signature.rs
+
+/home/priks/rust-projects/near-projects/near-registery/contract/target/debug/deps/ed25519_dalek-add9c9fe6ba168a6.d: /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/lib.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/constants.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/keypair.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/errors.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/public.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/secret.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/signature.rs
+
+/home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/lib.rs:
+/home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/constants.rs:
+/home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/keypair.rs:
+/home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/errors.rs:
+/home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/public.rs:
+/home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/secret.rs:
+/home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/signature.rs:

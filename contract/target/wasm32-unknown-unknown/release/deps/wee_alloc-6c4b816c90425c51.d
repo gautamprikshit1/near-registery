@@ -1,0 +1,11 @@
+/home/priks/rust-projects/near-projects/near-registery/contract/target/wasm32-unknown-unknown/release/deps/wee_alloc-6c4b816c90425c51.rmeta: /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/lib.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/extra_assert.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/const_init.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/neighbors.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/imp_wasm32.rs
+
+/home/priks/rust-projects/near-projects/near-registery/contract/target/wasm32-unknown-unknown/release/deps/libwee_alloc-6c4b816c90425c51.rlib: /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/lib.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/extra_assert.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/const_init.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/neighbors.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/imp_wasm32.rs
+
+/home/priks/rust-projects/near-projects/near-registery/contract/target/wasm32-unknown-unknown/release/deps/wee_alloc-6c4b816c90425c51.d: /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/lib.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/extra_assert.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/const_init.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/neighbors.rs /home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/imp_wasm32.rs
+
+/home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/lib.rs:
+/home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/extra_assert.rs:
+/home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/const_init.rs:
+/home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/neighbors.rs:
+/home/priks/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/imp_wasm32.rs:
