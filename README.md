@@ -3,6 +3,8 @@ near-blank-project
 
 This app was initialized with [create-near-app]
 
+#This is the rust version of the contract available at https://github.com/viraja1/near-registry.
+
 
 Quick Start
 ===========
